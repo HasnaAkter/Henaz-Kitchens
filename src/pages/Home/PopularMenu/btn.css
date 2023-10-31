@@ -1,0 +1,11 @@
+/* form.css */
+
+.btn-primary {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #3498db; /* Change to the desired hover color */
+    transform: scale(1.1); /* Change to the desired scale factor */
+  }
+  
